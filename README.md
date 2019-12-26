@@ -1,6 +1,6 @@
 
 # Multi-resolution Space-attended Residual Dense Network for Single Image Super-Resolution
-This repository is for MARDN, and our presentation slide can be download [here]([http](https://drive.google.com/open?id=1YRJbslpObygQSd7DniG6HxIV-tNE6B7k)).
+This repository is for MARDN, and our presentation slide can be download [here](https://drive.google.com/open?id=1YRJbslpObygQSd7DniG6HxIV-tNE6B7k).
 
 
 The code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and tested on Ubuntu 18.04/16.04 environment (Python3.6, PyTorch_1.0.1, CUDA9.0, cuDNN7.4) with Nividia RTX 2080Ti/GTX 1080Ti GPUs.
