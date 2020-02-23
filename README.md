@@ -34,6 +34,11 @@ Visual comparison for 3× SR with the BD model on the BSD100 dataset. The best r
 Results on the five benchimark datasets can be downloaded in [Google Drive](https://drive.google.com/open?id=1XbMlpNGv16J_4Rzud0uWgOuQDZ7tqBuH).
 
 ## Source code
-Source code will be released upon acceptance of the paper.
+Source code is available now.
+- For training:
+    - modify the 'run.sh'
+- For testing:
+    - download the pretrain model
+    - modify the 'run.sh'
 ## Acknowledgements
 This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch). We thank the authors for sharing their codes.
