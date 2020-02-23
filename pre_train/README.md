@@ -1,0 +1,2 @@
+- Download pretrain model from [Google Drive](https://drive.google.com/file/d/1nkdgAtpeOuMZ_SqcyKD5ZKmp_3qdVRvO/view?usp=sharing).
+- Modified the '--pre_train' in option.py.
